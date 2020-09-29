@@ -1,0 +1,14 @@
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\bin\Debug\netstandard2.0\DPTestAv.deps.json
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\bin\Debug\netstandard2.0\DPTestAv.dll
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\bin\Debug\netstandard2.0\ref\DPTestAv.dll
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\bin\Debug\netstandard2.0\DPTestAv.pdb
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.AssemblyInfoInputs.cache
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.AssemblyInfo.cs
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.dll
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\ref\DPTestAv.dll
+C:\Users\dalli\source\repos\DPTestAv\DPTestAv\DPTestAv\obj\Debug\netstandard2.0\DPTestAv.pdb
